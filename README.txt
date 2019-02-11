@@ -17,4 +17,4 @@ To start the chat room, follow these steps:
     5. Starting with the client, send alternating messages between the two machines. The client must wait for a 
        response before sending another message, and vice versa. 
     6. At any time, the client or the server may exit the chatroom by typing "\quit" as their message
-            !NOTE:  The server will continually wait for a new client connection, wheras the client will exit entirely.
+            !NOTE:  The server will continually wait for a new client connection, whereas the client will exit entirely.
