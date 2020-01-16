@@ -1,9 +1,3 @@
-Program Name: Client-Server Socket Chat Room
-Programmer Name: Tres Oelze
-Last Modified: 2/10/2019
-Course Name: CS 372 - 400
-
-
 This program contains two scripts, a chat client written in C and a chat server written in python.
 To start the chat room, follow these steps:
     1. Open UNIX shell with Python interpreter installed and run the server script using the command
